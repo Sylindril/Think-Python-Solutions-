@@ -3,3 +3,4 @@ Hi! I'm creating a repo of solutions for the book "Think Python - How to think l
 
 The entire code is presented in interactive Jupyter Notebooks, and is my own creation.
 
+I'm a novice - as such, my code reflects that. Be warned!
